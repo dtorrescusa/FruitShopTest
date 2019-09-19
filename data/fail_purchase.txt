@@ -1,0 +1,4 @@
+PRODUCT, QUANTITY
+Watermelon,3
+Orange, 25
+Apple, 12
